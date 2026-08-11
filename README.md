@@ -8,11 +8,12 @@
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/-Portfolio-8B5CF6?style=for-the-badge&logoColor=white)](https://portfolio-website-five-delta-40.vercel.app/)
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadus9129@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-usama-676702353/)
 [![GitHub](https://img.shields.io/badge/-muhammadus9139-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhammadus9139)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/muhammadus9139/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-8B5CF6?style=for-the-badge&logoColor=white)](https://portfolio-website-five-delta-40.vercel.app/)
+
 
 </div>
 
