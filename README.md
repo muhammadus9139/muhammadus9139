@@ -23,7 +23,7 @@ name: Muhammad Usama
 role: Software Engineering Student @ COMSATS University Islamabad (Lahore)
 focus: Full-Stack Web Development (MERN)
 mindset: Startup / product-builder — I like shipping real, usable apps
-Currently Learning: Next.js and React Native, while building full-stack applications.
+currently: Learning Next.js and React Native while building full-stack apps
 ```
 
 <br/>
@@ -48,15 +48,17 @@ Currently Learning: Next.js and React Native, while building full-stack applicat
 
 <br/>
 
-## 📊 GitHub Stats
+## 🐍 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadus9139&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=muhammadus9139&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://raw.githubusercontent.com/muhammadus9139/muhammadus9139/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadus9139&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
+
+![Followers](https://img.shields.io/github/followers/muhammadus9139?label=Followers&style=for-the-badge&color=8B5CF6&logo=github)
+![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/muhammadus9139&label=Public%20Repos&query=public_repos&style=for-the-badge&color=6366F1&logo=github)
+
 </div>
 
 <br/>
@@ -93,7 +95,7 @@ Currently Learning: Next.js and React Native, while building full-stack applicat
     <td width="50%" valign="top">
       <h3>📈 Currently Learning</h3>
       <ul>
-        <li>Next.js + full-stack deployment</li>
+        <li>Next.js + React Native</li>
         <li>React system design & folder architecture</li>
         <li>Node.js + Express + PostgreSQL</li>
         <li>AI-assisted developer workflows</li>
@@ -108,8 +110,8 @@ Currently Learning: Next.js and React Native, while building full-stack applicat
 
 ## 📬 Let's Connect
 
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadus9129@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-usama-676702353/)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=100&section=footer" width="100%"/>
 
