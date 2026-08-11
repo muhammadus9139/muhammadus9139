@@ -72,12 +72,12 @@ currently: Learning Next.js and React Native while building full-stack apps
       <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
     </td>
     <td width="50%" valign="top">
-      <h3>🛒 Electronics Marketplace</h3>
-      <p>A PriceOye-inspired e-commerce platform — product carousels, category filters, mobile filter drawer, and a large multi-category product catalog.</p>
+      <h3>✈️ TravelNow</h3>
+      <p>A fully responsive travel booking frontend — clean UI across mobile, tablet, and desktop with smooth navigation and destination browsing.</p>
       <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
       <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/-Responsive-8B5CF6?style=flat-square"/>
     </td>
   </tr>
   <tr>
