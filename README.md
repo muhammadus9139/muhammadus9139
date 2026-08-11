@@ -139,6 +139,7 @@ currently: Learning Next.js and React Native while building full-stack apps
 
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadus9129@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-usama-676702353/)
+[![GitHub](https://img.shields.io/badge/-muhammadus9139-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhammadus9139)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=100&section=footer" width="100%"/>
 
