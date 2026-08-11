@@ -32,25 +32,44 @@ currently: Learning Next.js and React Native while building full-stack apps
 
 <div align="center">
 
+<table>
+<tr>
+<td align="center" width="33%">
+
 **Frontend**
-<br/>
+
 <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
 
+</td>
+<td align="center" width="33%">
+
 **Backend & Database**
-<br/>
+
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,python" />
 
-**Tools & APIs**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-<br/>
-<img src="https://img.shields.io/badge/-REST%20API-FF6C37?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/-JavaFX-orange?style=flat-square"/>
-<img src="https://img.shields.io/badge/-Thunder%20Client-000000?style=flat-square&logo=thunderclient&logoColor=white"/>
+</td>
+<td align="center" width="33%">
 
 **Languages**
-<br/>
+
 <img src="https://skillicons.dev/icons?i=java,cpp,c" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+**Tools, APIs & Deployment**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,railway" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/-REST%20API-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/-JavaFX-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Thunder%20Client-3C3C3C?style=for-the-badge&logo=thunderclient&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
 
 </div>
 
