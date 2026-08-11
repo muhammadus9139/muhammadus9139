@@ -51,7 +51,7 @@ currently: Building a Todo app + an electronics e-commerce marketplace
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadus9139&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadus9139&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
   <img src="https://streak-stats.demolab.com/?user=muhammadus9139&theme=tokyonight&hide_border=true" width="49%" />
 </div>
 
