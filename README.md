@@ -54,6 +54,7 @@ currently: Learning Next.js and React Native while building full-stack apps
 
 ![Followers](https://img.shields.io/github/followers/muhammadus9139?label=Followers&style=flat-square&color=8B5CF6&logo=github)
 ![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/muhammadus9139&label=Public%20Repos&query=public_repos&style=flat-square&color=6366F1&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=muhammadus9139&label=Profile%20Views&style=flat-square&color=blueviolet)
 
 </div>
 
