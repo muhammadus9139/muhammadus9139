@@ -1,16 +1,116 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**muhammadus9139/muhammadus9139** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=220&section=header&text=Muhammad%20Usama&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20Stack&descAlignY=55&descSize=18" width="100%"/>
 
-Here are some ideas to get you started:
+<a href="https://github.com/muhammadus9139">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Building+real%2C+deployable+apps;MERN+Stack+%7C+React+%7C+Node.js+%7C+MongoDB;Software+Engineering+Student+%40+COMSATS;Currently+leveling+up+in+System+Design" alt="Typing SVG" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![GitHub](https://img.shields.io/badge/-muhammadus9139-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhammadus9139)
+
+</div>
+
+<br/>
+
+## 👨‍💻 About Me
+
+```yaml
+name: Muhammad Usama
+role: Software Engineering Student @ COMSATS University Islamabad (Lahore)
+focus: Full-Stack Web Development (MERN)
+mindset: Startup / product-builder — I like shipping real, usable apps
+currently: Building a Todo app + an electronics e-commerce marketplace
+```
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
+
+**Backend & Database**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" />
+
+**Languages & Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=java,cpp,c,git,github,vscode" />
+
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadus9139&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadus9139&theme=tokyonight&hide_border=true" width="49%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadus9139&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
+</div>
+
+<br/>
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📝 Notebook Todo App</h3>
+      <p>MERN stack Todo list app with a paper/notebook aesthetic UI and full JWT-based authentication flow.</p>
+      <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+      <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛒 Electronics Marketplace</h3>
+      <p>A PriceOye-inspired e-commerce platform — product carousels, category filters, mobile filter drawer, and a large multi-category product catalog.</p>
+      <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+      <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💻 CodeNest</h3>
+      <p>A GitHub-inspired JavaFX desktop app built for a DSA course — integrates GitHub REST API, Groq AI API & Google Gemini API, with 9 DSA structures implemented.</p>
+      <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-JavaFX-orange?style=flat-square"/>
+      <img src="https://img.shields.io/badge/-Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📈 Currently Learning</h3>
+      <ul>
+        <li>Next.js + full-stack deployment</li>
+        <li>React system design & folder architecture</li>
+        <li>Node.js + Express + PostgreSQL</li>
+        <li>AI-assisted developer workflows</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+## 📬 Let's Connect
+
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=100&section=footer" width="100%"/>
+
+</div>
