@@ -8,6 +8,7 @@
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/-Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-website-five-delta-40.vercel.app/)
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadus9129@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-usama-676702353/)
 [![GitHub](https://img.shields.io/badge/-muhammadus9139-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhammadus9139)
@@ -63,7 +64,7 @@ currently: Learning Next.js and React Native while building full-stack apps
 
 **Tools, APIs & Deployment**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,intellij,postman,vercel,railway,netlify" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,vercel,railway,netlify" />
 
 <br/><br/>
 
@@ -93,7 +94,7 @@ currently: Learning Next.js and React Native while building full-stack apps
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>📝 TaskFlow</h3>
+      <h3>📝 Notebook Todo App</h3>
       <p>MERN stack Todo list app with a paper/notebook aesthetic UI and full JWT-based authentication flow.</p>
       <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white"/>
