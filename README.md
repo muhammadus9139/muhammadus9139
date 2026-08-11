@@ -38,11 +38,19 @@ currently: Learning Next.js and React Native while building full-stack apps
 
 **Backend & Database**
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,python" />
 
-**Languages & Tools**
+**Tools & APIs**
 <br/>
-<img src="https://skillicons.dev/icons?i=java,cpp,c,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<br/>
+<img src="https://img.shields.io/badge/-REST%20API-FF6C37?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/-JavaFX-orange?style=flat-square"/>
+<img src="https://img.shields.io/badge/-Thunder%20Client-000000?style=flat-square&logo=thunderclient&logoColor=white"/>
+
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=java,cpp,c" />
 
 </div>
 
