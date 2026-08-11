@@ -48,16 +48,12 @@ currently: Learning Next.js and React Native while building full-stack apps
 
 <br/>
 
-## 🐍 Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/muhammadus9139/muhammadus9139/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</div>
+## 📊 Quick Stats
 
 <div align="center">
 
-![Followers](https://img.shields.io/github/followers/muhammadus9139?label=Followers&style=for-the-badge&color=8B5CF6&logo=github)
-![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/muhammadus9139&label=Public%20Repos&query=public_repos&style=for-the-badge&color=6366F1&logo=github)
+![Followers](https://img.shields.io/github/followers/muhammadus9139?label=Followers&style=flat-square&color=8B5CF6&logo=github)
+![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/muhammadus9139&label=Public%20Repos&query=public_repos&style=flat-square&color=6366F1&logo=github)
 
 </div>
 
