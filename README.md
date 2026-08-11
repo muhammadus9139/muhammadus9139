@@ -23,7 +23,7 @@ name: Muhammad Usama
 role: Software Engineering Student @ COMSATS University Islamabad (Lahore)
 focus: Full-Stack Web Development (MERN)
 mindset: Startup / product-builder — I like shipping real, usable apps
-**Currently Learning:** Next.js and React Native, while building full-stack applications.
+Currently Learning: Next.js and React Native, while building full-stack applications.
 ```
 
 <br/>
