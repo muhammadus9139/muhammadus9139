@@ -64,7 +64,7 @@ currently: Learning Next.js and React Native while building full-stack apps
 
 **Tools, APIs & Deployment**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,vercel,railway,netlify" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,vercel,netlify" />
 
 <br/><br/>
 
