@@ -93,7 +93,7 @@ currently: Learning Next.js and React Native while building full-stack apps
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>📝 Notebook Todo App</h3>
+      <h3>📝 TaskFlow</h3>
       <p>MERN stack Todo list app with a paper/notebook aesthetic UI and full JWT-based authentication flow.</p>
       <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white"/>
